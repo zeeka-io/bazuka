@@ -13,9 +13,8 @@ decentralized protocol compared to similar projects.
 
 ### Links
 
- - Website: https://zeeka.network
- - Whitepaper: http://hackmd.io/@geusebetel/zeeka
- - Discord: https://discord.gg/4gbf9gZh8H
+ - Website: https://zeeka.io
+ - Telegram: https://t.me/zeekaio
 
 ### How to run a Bazuka node?
 
